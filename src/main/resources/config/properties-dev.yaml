@@ -1,0 +1,6 @@
+# Environment independent properties
+
+# HTTP Connector Properties
+http:
+  host: "localhost"
+  port: "8081"
